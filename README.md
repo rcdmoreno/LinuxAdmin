@@ -1,5 +1,5 @@
 # LinuxAdmin
 
-Ola, $USER Seja bem vindo ao GITHUB!!
+Ola, Seja bem vindo ao GITHUB!!
 
 #
